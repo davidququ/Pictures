@@ -1,3 +1,4 @@
 # Pictures
 
-- For markdown pictures 
+- 用作Markdown图床
+
